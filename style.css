@@ -1,0 +1,39 @@
+*{margin:0;padding:0}
+body{
+	background-color:#2171c6;
+	
+}
+
+.wrap{
+	margin:10px;
+background-color:#fff;
+}
+ .full_wrap{
+	 
+}
+img{
+	width:100%
+}
+.img_divider {
+    width: 95%;
+    margin: auto;
+    height: 15px;
+    background: #0ba0f9;
+}
+h2 {
+	color:#0aec6d;
+	padding:10px;
+	text-align:center;
+}
+ p{
+	 padding:10px;
+	 text-align:justify;
+	 font-size:30px;
+ }
+ h4{
+	padding:10px;
+	 color:#150851;
+	 text-align:justify;
+	 font-size:30px;
+ }	 
+ 
