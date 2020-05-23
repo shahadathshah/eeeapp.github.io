@@ -2,8 +2,7 @@
 body{
 	background-color:#2171c6;
 	font-size: calc(16px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
-  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
-
+  
 	
 }
 
@@ -29,23 +28,20 @@ h2 {
 	padding:20px;
 	text-align:center;
 	font-size: calc(20px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
-  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
-
+  
 }
  p{
 	 padding:10px;
 	 text-align:justify;
 	font-size: calc(16px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
-  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
-
+   
  }
  h4{
 	padding:10px;
 	 color:#150851;
 	 text-align:justify;
 	font-size: calc(16px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
-  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
-
+  
  }	 
  /*  @media screen and ( -webkit-device-pixel-ratio: .75)
    {
