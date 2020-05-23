@@ -1,7 +1,12 @@
 *{margin:0;padding:0}
+body{
+	background-color:#2171c6;
+	
+}
 
 .wrap{
-margin-bottom:20px;
+	margin-bottom:10px;
+background-color:#fff;
 }
  .full_wrap{
 	 
@@ -12,23 +17,23 @@ img{
 .img_divider {
     width: 95%;
     margin: auto;
-    height: 30px;
+    height: 22.5px;
     background: #0ba0f9;
 }
 h2 {
 	color:#0aec6d;
-	padding:20px;
+	padding:30px;
 	text-align:center;
 }
  p{
-	 padding:20px;
+	 padding:15px;
 	 text-align:justify;
-	 font-size:30px;
+	 font-size:22.5px;
  }
  h4{
-	padding:20px;
+	padding:15px;
 	 color:#150851;
 	 text-align:justify;
-	 font-size:30px;
+	 font-size:22.5px;
  }	 
  
