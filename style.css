@@ -4,7 +4,7 @@ body{
 	
 }
 
-..wrap{
+.wrap{
 	margin-bottom:10px;
 background-color:#fff;
 }
@@ -57,10 +57,34 @@ h2 {
  }}
  @media screen and ( -webkit-device-pixel-ratio: 3)
  {
-	 body{
-	background-color:red;
-	
- }}
+	.wrap{
+	margin-bottom:30px;
+background-color:#fff;
+}
+  
+.img_divider {
+    width: 95%;
+    margin: auto;
+    height: 45px;
+    background: #0ba0f9;
+}
+h2 {
+	color:#0aec6d;
+	padding:60px;
+	text-align:center;
+}
+ p{
+	 padding:30px;
+	 text-align:justify;
+	 font-size:15px;
+ }
+ h4{
+	padding:30px;
+	 color:#150851;
+	 text-align:justify;
+	 font-size:45px;
+ }	 
+ }
  @media screen and ( -webkit-device-pixel-ratio: 4)
  {
 	 body{
