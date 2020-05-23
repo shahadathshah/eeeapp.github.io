@@ -48,13 +48,19 @@ h2 {
  @media screen and ( -webkit-device-pixel-ratio: 2)
  {
 	 body{
-	background-color:blue;
+	background-color:black;
 	
  }}
  @media screen and ( -webkit-device-pixel-ratio: 3)
  {
 	 body{
-	background-color:black;
+	background-color:green;
+	
+ }}
+ @media screen and ( -webkit-device-pixel-ratio: 4)
+ {
+	 body{
+	background-color:blue;
 	
  }}
  
