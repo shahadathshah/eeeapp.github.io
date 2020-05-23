@@ -4,10 +4,11 @@ body{
 	
 }
 
-.wrap{
+..wrap{
 	margin-bottom:10px;
 background-color:#fff;
 }
+  
  .full_wrap{
 	 
 }
@@ -17,23 +18,23 @@ img{
 .img_divider {
     width: 95%;
     margin: auto;
-    height: 22.5px;
+    height: 15px;
     background: #0ba0f9;
 }
 h2 {
 	color:#0aec6d;
-	padding:30px;
+	padding:20px;
 	text-align:center;
 }
  p{
-	 padding:15px;
+	 padding:10px;
 	 text-align:justify;
-	 font-size:22.5px;
+	 font-size:15px;
  }
  h4{
-	padding:15px;
+	padding:10px;
 	 color:#150851;
 	 text-align:justify;
-	 font-size:22.5px;
+	 font-size:15px;
  }	 
  
