@@ -1,11 +1,11 @@
 *{margin:0;padding:0}
-body{
+/* body{
 	background-color:#2171c6;
 	
-}
+} */
 
 .wrap{
-	margin:10px;
+	margin-bottom:10dp;
 background-color:#fff;
 }
  .full_wrap{
@@ -22,18 +22,19 @@ img{
 }
 h2 {
 	color:#0aec6d;
-	padding:10px;
+	padding:10dp;
 	text-align:center;
+	 font-size:15sp;
 }
  p{
-	 padding:10px;
+	 padding:10dp;
 	 text-align:justify;
-	 font-size:30px;
+	 font-size:15sp;
  }
  h4{
-	padding:10px;
+	padding:10dp;
 	 color:#150851;
 	 text-align:justify;
-	 font-size:30px;
+	 font-size:15sp;
  }	 
  
