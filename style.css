@@ -1,6 +1,9 @@
 *{margin:0;padding:0}
- 
-..wrap{
+  body{
+	background-color:#000;
+	
+ }
+.wrap{
 	margin-bottom:10px;
 
 }
