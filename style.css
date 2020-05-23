@@ -1,6 +1,9 @@
 *{margin:0;padding:0}
 body{
 	background-color:#2171c6;
+	font-size: calc(16px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
+
 	
 }
 
@@ -25,69 +28,76 @@ h2 {
 	color:#0aec6d;
 	padding:20px;
 	text-align:center;
+	font-size: calc(20px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
+
 }
  p{
 	 padding:10px;
 	 text-align:justify;
-	 font-size:15px;
+	font-size: calc(16px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
+
  }
  h4{
 	padding:10px;
 	 color:#150851;
 	 text-align:justify;
-	 font-size:15px;
+	font-size: calc(16px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
+
  }	 
-  @media screen and ( -webkit-device-pixel-ratio: .75)
- {
-	 body{
-	background-color:white;
-	
- }}
- @media screen and ( -webkit-device-pixel-ratio: 1)
- {
-	 body{
-	background-color:green;
-	
- }}
- @media screen and ( -webkit-device-pixel-ratio: 2)
- {
-	 body{
-	background-color:black;
-	
- }}
- @media screen and ( -webkit-device-pixel-ratio: 3)
- {
-	.wrap{
-	margin-bottom:30px;
-background-color:#fff;
-}
+ /*  @media screen and ( -webkit-device-pixel-ratio: .75)
+   {
+  	 body{
+  	background-color:white;
+  	
+   }}
+   @media screen and ( -webkit-device-pixel-ratio: 1)
+   {
+  	 body{
+  	background-color:green;
+  	
+   }}
+   @media screen and ( -webkit-device-pixel-ratio: 2)
+   {
+  	 body{
+  	background-color:black;
+  	
+   }}
+   @media screen and ( -webkit-device-pixel-ratio: 3)
+   {
+  	.wrap{
+  	margin-bottom:30px;
+  background-color:#fff;
+  }
   
-.img_divider {
+  .img_divider {
     width: 95%;
     margin: auto;
     height: 45px;
     background: #0ba0f9;
-}
-h2 {
-	color:#0aec6d;
-	padding:60px;
-	text-align:center;
-}
- p{
-	 padding:30px;
-	 text-align:justify;
-	 font-size:15px;
- }
- h4{
-	padding:30px;
-	 color:#150851;
-	 text-align:justify;
-	 font-size:45px;
- }	 
- }
- @media screen and ( -webkit-device-pixel-ratio: 4)
- {
-	 body{
-	background-color:blue;
-	
- }}
+  }
+  h2 {
+  	color:#0aec6d;
+  	padding:60px;
+  	text-align:center;
+  }
+   p{
+  	 padding:30px;
+  	 text-align:justify;
+  	 font-size:15px;
+   }
+   h4{
+  	padding:30px;
+  	 color:#150851;
+  	 text-align:justify;
+  	 font-size:45px;
+   }	 
+   }
+   @media screen and ( -webkit-device-pixel-ratio: 4)
+   {
+  	 body{
+  	background-color:blue;
+  	
+   }} */
