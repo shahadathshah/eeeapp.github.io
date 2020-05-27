@@ -6,9 +6,24 @@ body{
 	
 }
 
-
  .diode_full_wrap{
 	 background-color:#2171c6;
+	
+} 
+ .zener_full_wrap{
+	 background-color:#173657;
+	
+} 
+.mosfet_full_wrap{
+	 background-color:#0866FD;
+	
+} 
+ .bjt_full_wrap{
+	 background-color:#067AD3;
+	
+} 
+.threephasecircuits_full_wrap{
+	 background-color:#E91E63;
 	
 } 
 .wrap{
